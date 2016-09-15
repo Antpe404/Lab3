@@ -1,0 +1,15 @@
+Package: Lab3
+Type: Package
+Title: A tribute to Jonas Jerebkos husmanskost
+Version: 1.0
+Date: 2016-09-12
+Author: Emil Klasson Svensson [aut,cre] Anton Persson [aut,cre]
+Maintainer: Emil Klasson Svensson <emisv463@student.liu.se>
+Description: Computes the greatest common devisor of two numeric integers via
+    the Euclidian algorithm. The implementation is division based and uses the
+    modulus function.
+License: BSD_2_clause
+RoxygenNote: 5.0.1
+LazyData: true
+Suggests: testthat
+Depends: R(>= 2.10.0)
